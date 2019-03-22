@@ -144,4 +144,6 @@ const newFunc = ((acc,item) => {
 	return acc + item;
 })
 const sum = array2.reduce(newFunc,20)
-
+const myFunc = ()=> {
+	return array2
+}
