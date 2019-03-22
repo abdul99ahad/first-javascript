@@ -1,6 +1,6 @@
 const name="Abdul Ahad";
 const age= 19;
-const uni="NED University";
+const uni="Stanford University";
 
 const info = `This is ${name} age ${age} currently studying in ${uni}`;
 
